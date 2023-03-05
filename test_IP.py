@@ -56,7 +56,7 @@ def test() :
         count += 1
         temp += aa
         #print(count)
-        if count % 200 == 0 :
+        if count % 500 == 0 :
             test_list.append(temp)
             count2 += 1
             count = 0
